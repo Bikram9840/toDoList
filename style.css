@@ -1,0 +1,23 @@
+/* /* #toDoList{
+    width:500px;
+    height: 400px;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#data{
+    width: 100px;
+    height: 100px;
+    /* background-color: black; */
+    /* margin: 60px; */
+    /* color: black; */
+/* } */
+/*  
+li{
+    font-size: 20px;
+    width: 200px;
+    height: 20px;
+    border: 2px solid black;
+}  */
